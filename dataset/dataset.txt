@@ -1,0 +1,71 @@
+A- Appliance beep
+B- Child calling
+C- Clock 
+D- Cooking sizzle 
+E- Door Sounds 
+F- Door bell Alerts 
+G- Dryer buzz
+H- Faucet drip
+I- Firealarm
+J- Footstep
+K- Frying
+L- Glass breaking 
+M- Kettle whistle
+N- Knocking 
+O- Refrigerator 
+P- Thunderstorm
+Q- Tv sounds
+R- Washing machine
+S- Wind sounds
+T- Animal sound
+
+Alarm clock ringing 
+Bathtub filling
+Blinds opening
+Blender
+Book falling
+Broom sweeping
+Can opening
+Ceiling fan
+Chair dragging
+Fireplace crackling
+Closet door opening
+Coffee machine 
+Computer typing 
+Coughing
+Cup clinking
+Curtain movement 
+Dishwasher running
+Door locking
+Door slamming
+Sliding door
+Drawer closing
+Electric toothbrush
+Electric razor
+Fan oscillating
+Footsteps on stairs
+Garage door
+Garbage disposal
+Hairdryer
+Hand clapping
+Hand washing
+Heater noise
+Iron steam
+Keyboard clicking
+Laughter 
+Light switch
+Microwave door closing
+Mirror tap 
+Newspaper rustle 
+Oven door opening
+Page flipping
+Pen writing
+Phone vibration
+Printer
+Remote clicking
+Shaving
+Shower running
+Slippers walking
+Spoon stirring
+Toilet flush
+Vacuum cleaner
